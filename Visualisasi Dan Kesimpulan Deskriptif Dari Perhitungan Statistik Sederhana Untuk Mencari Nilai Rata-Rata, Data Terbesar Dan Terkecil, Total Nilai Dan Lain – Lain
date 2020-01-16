@@ -1,9 +1,0 @@
-Mengimpor Data Dari File CSV
-Mengimpor Data Dari File JSON
-Membaca objek data dari file CSV oleh sistem
-memasukan data fileJSON ke dataframe
-Membaca objek data dari file JSON oleh sistem
-memasukan data fileJSON ke dataframe
-Menggabungkan data (combine) dari dua file yaitu data (.csv) dan (.Json) dalam sebuah dataframe
-menampilkan gabungan data yang ada di dataframe datagabung
-menampilkan statistik sederhana  dari mencari nilai rata-rata, data terbesar dan terkecil, yang ada di dataframe datagabung
